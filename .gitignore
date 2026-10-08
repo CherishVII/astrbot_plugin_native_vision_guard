@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+# 发布流程笔记，仅本地保留，不随插件仓库发布
+PUBLISH_GUIDE.md
